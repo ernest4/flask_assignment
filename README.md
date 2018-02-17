@@ -6,7 +6,7 @@ Flask System Info description
 
 Run the application:
 
-    make run
+    python run.py
 
 And open it in the browser at [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
 

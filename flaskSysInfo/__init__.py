@@ -3,7 +3,7 @@ from flask import Flask
 
 app = Flask(__name__)
 app.config.from_object('flaskSysInfo.default_settings')
-app.config.from_envvar('FLASKSYSINFO_SETTINGS')
+#app.config.from_envvar('FLASKSYSINFO_SETTINGS')
 
 if not app.debug:
     import logging
