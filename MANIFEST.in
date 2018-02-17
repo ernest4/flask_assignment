@@ -1,0 +1,2 @@
+recursive-include flaskSysInfo/templates *
+recursive-include flaskSysInfo/static *
