@@ -8,7 +8,7 @@ Run the application:
 
     python run.py
 
-And open it in the browser at [http://127.0.0.1:5000/](http://127.0.0.1:5000/)
+And open it in the browser at [http://0.0.0.0:5000/](http://0.0.0.0:5000/)
 
 
 ## Prerequisites
