@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='flaskSysInfo',
-    version='1.1',
+    version='1.2',
     long_description=__doc__,
     packages=find_packages(),
     include_package_data=True,
@@ -10,5 +10,5 @@ setup(
     install_requires=[
         'flask',
     ],
-    scripts=['run']
+    entry_points={'console_scripts':['comp30670_flaskSysInfo=run']}
 )
