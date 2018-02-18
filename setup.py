@@ -10,4 +10,5 @@ setup(
     install_requires=[
         'flask',
     ],
+    scripts=['run']
 )
