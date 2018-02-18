@@ -10,5 +10,5 @@ setup(
     install_requires=[
         'flask',
     ],
-    entry_points={'console_scripts':['comp30670_flaskSysInfo=app.run']}
+    entry_points={'console_scripts':['comp30670_flaskSysInfo=run:app.run']}
 )
