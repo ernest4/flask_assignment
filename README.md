@@ -8,6 +8,10 @@ Run the application:
 
     python run.py
 
+	OR
+
+    comp30670_flaskSysInfo
+
 And open it in the browser at [http://0.0.0.0:5000/](http://0.0.0.0:5000/)
 
 
